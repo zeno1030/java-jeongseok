@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0865352d-e2a9-4efc-82ab-20598127e2bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CallStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitiveParamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceParamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceParamEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferenceReturnEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +99,10 @@
       <workItem from="1699326815953" duration="3580000" />
       <workItem from="1699352722698" duration="113000" />
       <workItem from="1699352847566" duration="1861000" />
-      <workItem from="1699422823373" duration="2493000" />
+      <workItem from="1699422823373" duration="2735000" />
+      <workItem from="1699427000548" duration="648000" />
+      <workItem from="1699490479192" duration="4512000" />
+      <workItem from="1699514215021" duration="1345000" />
     </task>
     <servers />
   </component>

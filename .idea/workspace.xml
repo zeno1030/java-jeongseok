@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0865352d-e2a9-4efc-82ab-20598127e2bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CaptionTvTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RepairableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepairableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,28 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/java-jeongseok",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.CaptionTvTest">
-    <configuration name="CallStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CallStackTest" />
-      <module name="java-jeongseok" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.ThreadEx3">
     <configuration name="CaptionTvTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaptionTvTest" />
       <module name="java-jeongseok" />
@@ -65,15 +62,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveParamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitiveParamEx" />
+    <configuration name="ThreadEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadEx1" />
       <module name="java-jeongseok" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceReturnEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReferenceReturnEx" />
+    <configuration name="ThreadEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadEx2" />
+      <module name="java-jeongseok" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadEx3" />
       <module name="java-jeongseok" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadEx3" />
+        <item itemvalue="Application.ThreadEx2" />
+        <item itemvalue="Application.ThreadEx1" />
         <item itemvalue="Application.CaptionTvTest" />
         <item itemvalue="Application.FactorialTest" />
-        <item itemvalue="Application.ReferenceReturnEx" />
-        <item itemvalue="Application.PrimitiveParamEx" />
-        <item itemvalue="Application.CallStackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +109,9 @@
       <workItem from="1699490479192" duration="4512000" />
       <workItem from="1699514215021" duration="1439000" />
       <workItem from="1699579724465" duration="5890000" />
+      <workItem from="1699669432139" duration="1271000" />
+      <workItem from="1699838883076" duration="15000" />
+      <workItem from="1700029074130" duration="1667000" />
     </task>
     <servers />
   </component>
